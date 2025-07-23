@@ -1,0 +1,34 @@
+img {
+  display:flex;
+  justify-content:center;
+  height:200px;
+  width:300px;
+  margin: 10px;
+ }
+
+div {
+ border: solid white 2px;
+ padding: 10px;
+ margin: 10px;
+ width: 320px;
+ color:white;
+ background-color: black;
+}
+
+.text {
+  width:267px;
+  padding: 15px;
+  color: white;
+}
+
+.funfact {
+  font-style: italic;
+ }
+
+li span {
+	font-weight: bold;
+ }
+
+ul {
+  list-style-type: none;
+ }
